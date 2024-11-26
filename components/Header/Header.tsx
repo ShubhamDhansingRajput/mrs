@@ -22,12 +22,11 @@ const Header = () => {
 <div className='flex items-center '>
 
 <MenubarTrigger className='bg-none'>Work</MenubarTrigger>
-<MenubarTrigger className='bg-none'>Services</MenubarTrigger>  
+<MenubarTrigger className='bg-none'>Services By MRS</MenubarTrigger>  
 <MenubarTrigger className='bg-none'>About Us</MenubarTrigger>  
 <MenubarTrigger className='bg-none'>Customer</MenubarTrigger>
-<MenubarTrigger className='bg-none'>Contact Us</MenubarTrigger>
+<MenubarTrigger className='bg-none'>Contact With Us Buddy</MenubarTrigger>
 </div>
-
 <div className=' flex items-center'>
     
   <Button>Let's Do it</Button>
