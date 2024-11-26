@@ -23,7 +23,7 @@ const Header = () => {
 
 <MenubarTrigger className='bg-none'>Work</MenubarTrigger>
 <MenubarTrigger className='bg-none'>Services</MenubarTrigger>  
-<MenubarTrigger className='bg-none'>Pricing</MenubarTrigger>  
+<MenubarTrigger className='bg-none'>About Us</MenubarTrigger>  
 <MenubarTrigger className='bg-none'>Customer</MenubarTrigger>
 <MenubarTrigger className='bg-none'>Contact Us</MenubarTrigger>
 </div>
